@@ -1,0 +1,140 @@
+LOCUS       AY902309                4250 bp    DNA     linear   PLN 03-MAR-2005
+DEFINITION  Arabidopsis thaliana CORONA (CNA) gene, complete cds.
+ACCESSION   AY902309
+VERSION     AY902309.1
+KEYWORDS    .
+SOURCE      Arabidopsis thaliana (thale cress)
+  ORGANISM  Arabidopsis thaliana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; malvids; Brassicales; Brassicaceae;
+            Camelineae; Arabidopsis.
+REFERENCE   1  (bases 1 to 4250)
+  AUTHORS   Green,K.A., Prigge,M.J., Katzman,R.B. and Clark,S.E.
+  TITLE     CORONA, a member of the class III homeodomain leucine zipper gene
+            family in Arabidopsis, regulates stem cell specification and
+            organogenesis
+  JOURNAL   Plant Cell 17 (3), 691-704 (2005)
+   PUBMED   15705957
+REFERENCE   2  (bases 1 to 4250)
+  AUTHORS   Green,K.A., Prigge,M.J., Katzman,R.B. and Clark,S.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-JAN-2005) Department of MCDB, University of Michigan,
+            830 N University Avenue, Ann Arbor, MI 48109-1048, USA
+FEATURES             Location/Qualifiers
+     source          1..4250
+                     /organism="Arabidopsis thaliana"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:3702"
+                     /chromosome="I"
+                     /ecotype="Landsberg erecta"
+     gene            <83..>4147
+                     /gene="CNA"
+                     /gene_synonym="ATHB-15"
+                     /note="similar to At1g52150"
+     mRNA            join(<83..291,401..560,681..781,878..968,1058..1153,
+                     1257..1370,1457..1540,1617..1772,1850..1924,2021..2133,
+                     2222..2411,2497..2673,2762..2842,2926..3060,3137..3462,
+                     3556..3661,3772..3921,4001..>4147)
+                     /gene="CNA"
+                     /gene_synonym="ATHB-15"
+                     /product="CORONA"
+     CDS             join(83..291,401..560,681..781,878..968,1058..1153,
+                     1257..1370,1457..1540,1617..1772,1850..1924,2021..2133,
+                     2222..2411,2497..2673,2762..2842,2926..3060,3137..3462,
+                     3556..3661,3772..3921,4001..4147)
+                     /gene="CNA"
+                     /gene_synonym="ATHB-15"
+                     /note="class III homeodomain leucine-zipper protein"
+                     /codon_start=1
+                     /product="CORONA"
+                     /protein_id="AAW88440.1"
+                     /translation="MAMSCKDGKLGCLDNGKYVRYTPEQVEALERLYHDCPKPSSIRR
+                     QQLIRECPILSNIEPKQIKVWFQNRRCREKQRKEASRLQAVNRKLTAMNKLLMEENDR
+                     LQKQVSQLVHENSYFRQHTPNPSLPAKDTSCESVVTSGQHQLASQNPQRDASPAGLLS
+                     IAEETLAEFLSKATGTAVEWIQMPGMKPGPDSIGIIAISHGCTGVAARACGLVGLEPT
+                     RVAEIVKDRPSWFRECRAVDVMNVLPTANGGTVELLYMQLYAPTTLAPPRDFWLLRYT
+                     SVLEDGSLVVCERSLKSTQNGPSMPLVQNFVRAEMLSSGYLIRPCDGGGSIIHIVDHM
+                     DLEACSVPEVLRPLYESPKVLAQKTTMAALRQLKQIAQEVTQTNSSVNGWGRRPAALR
+                     ALSQRLSRGFNEAVNGFTDEGWSVIGDSMDDVTITVNSSPDKLMGLNLTFANGFAPVS
+                     NVVLCAKASMLLQNVPPAILLRFLREHRSEWADNNIDAYLAAAVKVGPCSARVGGFGG
+                     QVILPLAHTIEHEEFMEVIKLEGLGHSPEDAIVPRDIFLLQLCSGMDENAVGTCAELI
+                     FAPIDASFADDAPLLPSGFRIIPLDSAKEVSSPNRTLDLASALEIGSAGTKASTDLSG
+                     NSTCTRSVMTIAFEFGIESHMQEHVASMARQYVRGIISSVQRVALALSPSHISSQVGL
+                     RTPLGTPEAQTLARWICQSYRGYMGVELLKSNSDGNESILKNLWHHTDAIICCSMKAL
+                     PVFTFANQAGLDMLETTLVALQDISLEKIFDDNGRKTLCSEFPQIMQQGFACLQGGIC
+                     LSSMGRPVSYERAVAWKVLNEEENAHCICFVFINWSFV"
+ORIGIN      
+        1 ttagttattc atctggaggg ggtagtaggg tcatttgtga gattctgtga ttgtgaaata
+       61 agaagaatat ttctgaggag taatggcaat gtcttgcaag gatggtaagt tgggatgttt
+      121 ggataatggg aagtatgtga ggtatacacc tgaacaagtt gaagcacttg agaggcttta
+      181 tcatgactgt cctaaaccga gttctattcg ccgtcagcag ttgatcagag agtgtcctat
+      241 tctctccaac attgagccta aacagatcaa agtgtggttt cagaaccgaa ggtaataaca
+      301 atgttcattg cttgggaatt gtggtgaatg gaagtttctg tggtgttctt tttatctact
+      361 tgatctaatc tttgttttgt gtttctgtta tgaactttag atgtagagag aaacaaagga
+      421 aagaggcttc acggcttcaa gctgtgaatc ggaagttgac ggcaatgaac aaactcttga
+      481 tggaggagaa tgatagattg cagaagcaag tgtcacagct ggtccatgaa aacagctact
+      541 tccgtcaaca tactcccaat gtgaggattc tactcttgca atatcttcag ttttcttacc
+      601 ttattgatct ctaaaatgtt tcttaagaac aataatttca ttttaatggt atgtgtatca
+      661 atttgtctct tttttttcag ccttcacttc cagctaaaga cacaagctgt gaatcggtgg
+      721 tgacgagtgg tcagcaccaa ttggcatctc aaaatcctca gagagatgct agtcctgcag
+      781 ggttggttct ttaattggaa tatggttact ctgttagtta gaaactacac ttttgtcata
+      841 tttttctgag attcattgat acatgttatg ttttcagact tttgtccatt gcagaagaaa
+      901 ctttagcaga gtttctttca aaggcaactg gaaccgctgt tgagtggatt cagatgcctg
+      961 gaatgaaggt attttattcc tctagttttg tttttgttaa ttggatatag ttattctgct
+     1021 ttttcctcaa tggttgtttt tgtattttcc gtaacagcct ggtccggatt ccattggaat
+     1081 catcgctatt tctcatggtt gcactggtgt ggcagcacgc gcctgtggcc tagtgggtct
+     1141 tgagcctaca agggtacgtg tatagaatca ttttcatcgc tgatttatac aatcttatac
+     1201 tactctacat gtgtctacat atgtaacaac attcatctct tttctctatt ttacaggttg
+     1261 cagagatcgt caaggatcgt ccttcgtggt tccgcgaatg tcgagctgtt gatgttatga
+     1321 acgtgttgcc aactgccaat ggtggaaccg ttgagctgct ttatatgcag gttagtttta
+     1381 aaccataagt gctacacagt tagaattatt tttctaaagt tgaaaatagt aaccatcatc
+     1441 ctcttcgtaa ttgcagctct atgcaccaac tacattggcc ccaccacgcg atttctggct
+     1501 gttacgttac acctctgttt tagaagatgg cagccttgtg gtatgtagct tttcttttct
+     1561 gtcagtgttc ttattcatgt tgatccattt ttcacaaggt ttaagaaatc ttataggtgt
+     1621 gcgagagatc tcttaagagc actcaaaacg gtcctagtat gccactggtt cagaattttg
+     1681 tgagagcaga aatgctttcc agtgggtact tgatacggcc ttgtgatggt ggtggctcaa
+     1741 tcatacacat agtggatcat atggatttgg aggtaacgag cctcactctg caccaattcg
+     1801 gtcttggaaa tgttaaccaa actgtttgga tatttgttca cttaaatagg cttgtagcgt
+     1861 gcctgaggtc ttacgcccgc tctatgagtc accaaaagta cttgcacaga agacaacaat
+     1921 ggcggtatgt taattaaact catttattcc ctaaagcttg cattctgata ttgaaactac
+     1981 tgttctcaaa tgatgtatac aaatcgaatt tgtctcaaag gcactgcgtc agctcaagca
+     2041 aatagctcag gaggttactc agactaatag tagtgttaat gggtggggac ggcgtcctgc
+     2101 tgccttaaga gctctcagcc agaggctaag caggtttata tacaattacg atttgcctct
+     2161 tcttattggt gggtttgtgt cctttatatt tgcctcttct tataattttt tttccctaca
+     2221 gaggcttcaa tgaagctgta aatggtttca ctgatgaagg atggtcagtg ataggagata
+     2281 gcatggatga tgtcacaatc actgtaaact cttctccaga caagctaatg ggtctaaatc
+     2341 ttacatttgc caatggcttt gctcctgtaa gcaatgttgt tttatgcgca aaagcatcaa
+     2401 tgcttttaca ggtcagtgca ccattttttt tatagatcaa ctgatgattg tttcaacact
+     2461 ttttcacctt cttttaatgg gattttgcac ctacagaatg ttcctccggc gatcctgctt
+     2521 cggtttctga gggagcatag gtcagaatgg gctgacaaca acattgatgc gtatctagca
+     2581 gcagcagtta aagtagggcc ttgtagtgcc cgagttggag gatttggagg gcaggttata
+     2641 cttccacttg ctcatactat tgagcatgaa gaggttagtt taattttctt cgataaactt
+     2701 aatgtttttc ttttatctcc gtaagataag ttgaagaacg cttttttttt ttttcattca
+     2761 gttcatggaa gtcatcaaat tggaaggtct aggtcattcc cctgaagatg caatcgttcc
+     2821 aagagatatc ttccttcttc aagtaagtac tttaggttgt ctattttgca taaggtttta
+     2881 atgttggtct ctagtacctg attttttttt ttttttggtg attagctttg tagcggaatg
+     2941 gatgaaaatg ctgtaggaac ctgtgctgaa cttatatttg ctccaatcga cgcttcgttt
+     3001 gcggatgatg cacctctgct tccttctggt tttcgtatta tccctcttga ttccgcaaag
+     3061 gtaaaaaaaa gttatgtttt ctgtccaagt cttctattat tcagattctt aagcttttct
+     3121 tgaaccaaaa aagcaggaag tatctagccc aaaccgaacc ttggatcttg cttcggcact
+     3181 ggaaattggt tcagctggaa caaaagcctc aactgatctc tctggaaatt ccacatgtac
+     3241 aagatctgtg atgacaatag catttgagtt tggtatcgag agccatatgc aagaacatgt
+     3301 agcatccatg gctaggcagt atgttcgagg tatcatatca tcggtgcaga gagtagcatt
+     3361 ggctctttct ccttctcata tcagctcaca agttggtcta cgcactcctt tgggtactcc
+     3421 tgaagcccaa acacttgctc gttggatttg ccagagttac aggtataaac caaactatca
+     3481 aatatgttct aattttccca ccaaatcaac aatttgtagt tactaaagat gactcatttt
+     3541 acccgttgat aataggggct acatgggtgt tgagctactt aaatcaaaca gtgacggcaa
+     3601 tgaatctatt cttaagaatc tttggcatca cactgatgct ataatctgct gctcaatgaa
+     3661 ggtaacaaac acaatgttaa acacataaat gtgtattcga taggaatact tggataggaa
+     3721 tacttgactc gtgtattcgc tgatctgttt tgggatttga acatcggtta ggccttgccc
+     3781 gtcttcacat ttgcaaacca ggcgggactt gacatgctgg agactacatt agttgctctt
+     3841 caagacatct ctttagagaa gatatttgat gacaatggaa gaaagactct ttgctctgag
+     3901 ttcccacaga tcatgcaaca ggttcttaga aacattttct gatcttcatt cttatcacat
+     3961 atgtttagtt ttatcgactt agtaggatct attttttcag ggcttcgcgt gccttcaagg
+     4021 cgggatatgt ctctcaagca tggggagacc agtttcgtat gagagagcag ttgcttggaa
+     4081 agtactaaat gaagaagaaa atgctcattg catctgcttt gtgttcatca attggtcctt
+     4141 tgtgtgagat ttattgtatt ttgtattttc agactaagct tttgcctttt ggctgtattg
+     4201 taaaacggtc atgttgttgt tgttgttgtt gttcttgatg ttgctgtgaa
+//
+
